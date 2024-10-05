@@ -1,0 +1,11 @@
+{
+    "hello.tl": {
+        "description": "Hello World in TFS Lang"
+    },
+    "app.html": {
+        "description": "A simple HTML app"
+    },
+    "script.js": {
+        "description": "JavaScript Example"
+    }
+}
